@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/gLVtC1h.png" height="300">
+<img src="../static/GitHub-Arcadia.png" height="300">
   <br>
   <b> Welcome to @Arcadia-Science! </b>
 </p>
