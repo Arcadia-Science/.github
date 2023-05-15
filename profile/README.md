@@ -1,10 +1,16 @@
-![](https://i.imgur.com/7Fgj0J6.png)
-
-**Welcome to @Arcadia-Science!**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../static/logo-darkmode.png">
+    <source media="(prefers-color-scheme: light)" srcset="../static/logo-lightmode.png">
+    <img src="" height="200">
+  </picture>
+  <br>
+  <b> Welcome to @Arcadia-Science! </b>
+</p>
 
 At Arcadia, one of our central tenets is that our science should be maximally useful.
 Computational tasks are embedded in all aspects of our scientific inquiry, so we need our computing strategies to be maximally useful too.
-What does this mean? In addition to aligning with scientific priorities across Arcadia, we believe that useful computing is ✨ innovative, 👩‍💻usable, 🔁 reproducible. 
+What does this mean? In addition to aligning with scientific priorities across Arcadia, we believe that useful computing is ✨ innovative, 👩‍💻usable, 🔁 reproducible.
 [Read more about our efforts](https://research.arcadiascience.com/useful-computing).
 
 - 🗺️ Explore our repositories to see what we’re working on.
