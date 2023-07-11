@@ -1,8 +1,6 @@
-<p align="center">
-<img src="../static/GitHub-Arcadia.png">
-  <br>
-  <b> Welcome to @Arcadia-Science! </b>
-</p>
+![](https://i.imgur.com/7Fgj0J6.png)
+
+**Welcome to @Arcadia-Science!**
 
 At Arcadia, one of our central tenets is that our science should be maximally useful.
 Computational tasks are embedded in all aspects of our scientific inquiry, so we need our computing strategies to be maximally useful too.
